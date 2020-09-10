@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7CDD-DF10
+
+ Directory of C:\CDP\myproject
+
+10/09/2020  05:50 PM    <DIR>          .
+10/09/2020  05:50 PM    <DIR>          ..
+10/09/2020  05:50 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  50,540,949,504 bytes free
